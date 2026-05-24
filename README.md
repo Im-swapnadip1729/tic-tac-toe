@@ -10,7 +10,28 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
 ## Link
-- [Vite](https://vite.dev/)
+https://tic-tac-toe-three-navy-87.vercel.app/
+
+## Run on local
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Im-swapnadip1729/tic-tac-toe.git
+    ```     
+2. Navigate to the project directory:
+    ```bash 
+    cd tic-tac-toe
+    ```
+3. Install dependencies:
+    ```bash 
+    npm install
+    ```
+4. Start the development server:
+    ``` bash 
+    npm run dev
+    ```
+5. Open your browser and go to `http://localhost:5173` to see the game.
+
+
 
 ## React Compiler
 
